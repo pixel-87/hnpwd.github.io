@@ -132,6 +132,12 @@
   :hnuid "morleytj"
   :bio "Software developer and scientist at the Center for Digital Genomic Medicine.")
 
+ (:name "Tony Alicea"
+  :site "https://tonyalicea.dev/"
+  :feed "https://tonyalicea.dev/feed/feed.xml"
+  :hnuid "TonyAlicea10"
+  :bio "Udemy and Pluralsight author, conference speaker.  Writes about AI, dev, and UX.")
+
  (:name "Xe Iaso"
   :site "https://xeiaso.net/"
   :blog "https://xeiaso.net/blog/"
