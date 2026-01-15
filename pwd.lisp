@@ -149,6 +149,15 @@
   :hnuid "johnz"
   :bio "Former front-end developer writing about the web, hardware and hobby projects.")
 
+ (:name "Joseph Jude"
+  :site "https://www.jjude.com/"
+  :blog "https://www.jjude.com/posts/"
+  :feed "https://www.jjude.com/feed.xml"
+  :about "https://www.jjude.com/about/"
+  :now "https://www.jjude.com/now/"
+  :hnuid "jjude"
+  :bio "CTO.  Homeschooling Dad.")
+
  (:name "Joseph Szymborski"
   :site "https://jszym.com/"
   :blog "https://jszym.com/blog/"
@@ -157,14 +166,6 @@
   :hnuid "jszymborski"
   :bio "Computational biology researcher.  Writes about technology and society.")
 
-  (:name "Joseph Jude"
-  :site "https://www.jjude.com/"  
-  :feed "https://www.jjude.com/feed.xml"
-  :about "https://jjude.com/about/"
-  :now "https://www.jjude.com/now"
-  :hnuid "jjude"
-  :bio "CTO. Homeschooling Dad")
- 
  (:name "Karl Knechtel"
   :site "https://zahlman.github.io/"
   :feed "https://zahlman.github.io/rss.xml"
