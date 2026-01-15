@@ -141,13 +141,14 @@
   "Create an HTML link."
   (with-output-to-string (s)
     (when href
-      (format s "          <a href=\"~a\">~a</a> |~%" href text))))
+      (format s "          ~a<a href=\"~a\">~a</a>~%"
+              (if (string= text "Website") "" "| ") href text))))
 
 (defun make-user-link (user text)
   "Create an HTML link."
   (with-output-to-string (s)
     (when user
-      (format s "          <a href=\"https://news.ycombinator.com/user?id=~a\">~a</a>~%" user text))))
+      (format s "          | <a href=\"https://news.ycombinator.com/user?id=~a\">~a</a>~%" user text))))
 
 (defun make-site-bio (bio)
   "Create HTML snippet to display bio."
